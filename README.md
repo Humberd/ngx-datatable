@@ -5,6 +5,9 @@
 [![Test Coverage](https://codeclimate.com/github/swimlane/ngx-datatable/badges/coverage.svg)](https://codeclimate.com/github/swimlane/ngx-datatable/coverage)
 [![npm version](https://badge.fury.io/js/%40swimlane%2Fngx-datatable.svg)](https://badge.fury.io/js/%40swimlane%2Fngx-datatable)
 
+## This is a fork of [https://github.com/therealjing/ngx-datatable](https://github.com/therealjing/ngx-datatable) that fixes [https://github.com/swimlane/ngx-datatable/pull/1392](https://github.com/swimlane/ngx-datatable/pull/1392). It is temporarily pushed to the [https://www.npmjs.com/package/@acaisoft/ngx-datatable](https://www.npmjs.com/package/@acaisoft/ngx-datatable) and will be removed when pull request is merged to master.
+
+
 `ngx-datatable` is an Angular component for presenting large and complex data.  It has all the features you would expect from any other table but in a light package with _no external dependencies_. The table was designed to be extremely flexible and light; it doesn't make any assumptions about your data or how you: filter, sort or page it.
 
 It was built for modern browsers using _TypeScript, CSS3 and HTML5_ and Angular `>=4.0.0`. This is the sister project of the [angular-data-table](https://github.com/swimlane/angular-data-table) that is designed for Angular 1.x.
