@@ -1,6 +1,6 @@
 {
   "name": "@acaisoft/ngx-datatable",
-  "version": "13.0.5",
+  "version": "13.0.6",
   "description": "ngx-datatable is a Angular2+ table grid component for presenting large and complex data.",
   "main": "release/index.js",
   "typings": "release/index.d.ts",
@@ -44,7 +44,8 @@
     "e2e:server": "http-server dist -p 8888",
     "preprotractor": "npm run webdriver:update",
     "protractor": "protractor",
-    "webdriver:update": "webdriver-manager update"
+    "webdriver:update": "webdriver-manager update",
+    "publish-package": "npm publish --access public"
   },
   "repository": {
     "type": "git",
